@@ -15,7 +15,7 @@ const styles = {
         justifyContent: 'flex-start',
         flexDirection: 'row',
         borderColor: '#ddd',
-        postiion: 'relative'
+        position: 'relative'
     }
 };
 export default CardSection;
